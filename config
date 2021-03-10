@@ -229,7 +229,7 @@ bindsym $mod+p exec flameshot gui
 bindsym $mod+Escape mode "$mode_system"
 
 exec --no-startup-id compton 
-exec --no-startup-id feh --bg-scale ~/Pictures/pepe-the-frog.png
+exec --no-startup-id feh --bg-scale ./wall/pepe-the-frog.png
 #gaps inner 4
 #gaps outer 1
 #smart_borders on
